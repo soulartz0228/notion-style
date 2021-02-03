@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+    @import url('//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css');
+
+    body {
+        font-family: 'Inter', 'Spoqa Han Sans';
+    }
+
+    .font {
+        font-family: 'Inter', 'Spoqa Han Sans';
+    }
+
+    .hero {
+        background-image: url('https://images.unsplash.com/photo-1593062096033-9a26b09da705?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        padding: 9.8rem;
+    }
+
+    .hero h1 {
+        color: white;
+    }
+
+    .emoji {
+        font-size: 4rem;
+    }
+
+    .container p {
+        font-size: 1.1rem;
+    }
+
+    .container {
+        margin-top: 1rem;
+        margin-bottom: 10rem;
+    }
+
+    a {
+        color: black;
+        text-decoration: underline;
+    }
+
+    a:hover {
+        color: black;
+
+    }
+
+    .notion-post {
+        line-height: 2rem;
+    }
+
+
+    .digitalocean-hero {
+        background-image: url('https://ui-cdn.digitalocean.com/registration/b5b21ec/static/media/HeroBackground-Option2-01.8564ae21.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        padding: 9.8rem;
+    }
+
+    .lh-1 {
+        line-height: 1rem;
+    }
+
+    .breadcrumb a {
+        text-decoration: none;
+    }
